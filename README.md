@@ -1,0 +1,2 @@
+# GetFileAndSendTest
+android端末内にあるファイル(コード内に場所記述)から画像を取得して，パソコンで起動したPythonサーバーに画像を送信するコード
